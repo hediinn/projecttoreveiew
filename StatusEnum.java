@@ -1,0 +1,11 @@
+public enum StatusEnum {
+
+	NOT_ASSEMBLED,
+	INCOMPLETE,
+	ASSEMBLED,
+	READY,
+	RUNNING,
+	ARRIVED,
+	FINISHED
+
+}
